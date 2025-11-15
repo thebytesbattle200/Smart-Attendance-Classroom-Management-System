@@ -1,0 +1,22 @@
+/* Additional styles for dashboard page */
+.attendance-chart {
+    height: 300px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.subject-progress {
+    margin-bottom: 15px;
+}
+
+.report-card {
+    border-left: 4px solid var(--primary);
+}
+
+.alert-attendance {
+    border-left: 4px solid #dc3545;
+}
